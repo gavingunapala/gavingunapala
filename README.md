@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 👀 I’m looking for an internship.
 - 💬 Ask me about anything.
 
-![alt text](https://github.com/[gavingunapala]/[gavingunapala]/blob/[branch]/image.jpg?raw=true)
+![alt text]https://github.com/gavingunapala/gavingunapala/tree/main/Images/Gmail.png)
