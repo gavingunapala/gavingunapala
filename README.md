@@ -1,4 +1,4 @@
-### Hi there, I am Gavin Nimsara Gunapala.  👋
+### Hi there,  👋  I am Gavin Nimsara Gunapala. 	:boy:
 
 <!--
 **gavingunapala/gavingunapala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
