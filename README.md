@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on ...
-- 👀 I’m looking for an internship.
+- 💻 I’m intern at Calcey Technologies.
 - 💬 Ask me about anything.<br>
 
 <img src = "https://github.com/gavingunapala/gavingunapala/blob/main/Images/images.png" width="150px"><br>
