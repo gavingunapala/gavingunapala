@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and nextjs.
 - 👯 I’m looking to collaborate on ...
 - 💻 I’m intern at Calcey Technologies.
 - 💬 Ask me about anything.<br>
