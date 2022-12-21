@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning React and nextjs.
 - 👯 I’m looking to collaborate on ...
-- 💻 I’m intern at Calcey Technologies.
+- 💻 I worked at Calcey Technologies as a intern developer.
+- 💻 I’m working at SI Dynamics (Pvt) Ltd as a software engineer.
 - 💬 Ask me about anything.<br>
 
 <img src = "https://github.com/gavingunapala/gavingunapala/blob/main/Images/images.png" width="150px"><br>
