@@ -5,7 +5,6 @@
 
 Here are some ideas to get you started:
 -->
-🌱 I’m currently learning React and Next.js.
 
 💻 I’m working at the Sri Lanka Air Force as a Software Engineer.
 
