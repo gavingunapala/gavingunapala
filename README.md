@@ -5,12 +5,17 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning React and nextjs.
-- 👯 I’m looking to collaborate on ...
-- 💻 I worked at Calcey Technologies as a intern developer.
-- 💻 I worked at SI Dynamics (Pvt) Ltd as an Associate Software Engineer.
-- 💻 I'm working at black vault technologies as an Associate Software Engineer.
-- 💬 Ask me about anything.<br>
+🌱 I’m currently learning React and Next.js.
+
+💻 I’m working at the Sri Lanka Air Force as a Software Engineer.
+
+💻 I worked at Black Vault Technologies as an Associate Software Engineer.
+
+💻 I worked at SI Dynamics (Pvt) Ltd as an Associate Software Engineer.
+
+💻 I worked at Calcey Technologies as an intern developer.
+
+💬 Ask me about anything.<br>
 
 <img src = "https://github.com/gavingunapala/gavingunapala/blob/main/Images/images.png" width="150px"><br>
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gavingunapala06@gmail.com)
